@@ -1,4 +1,4 @@
-package be.abdullah.store.controlers;
+package be.abdullah.store.controllers;
 
 import be.abdullah.store.dtos.AddressDto;
 import be.abdullah.store.dtos.RegisterAddressRequest;
